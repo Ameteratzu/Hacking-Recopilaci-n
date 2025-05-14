@@ -1,0 +1,30 @@
+"Cómo cambiar tu IP en menos de un minuto"
+
+ 1. Haga clic en "Inicio" en la esquina inferior izquierda de la pantalla
+ 2. Haga clic en "Ejecutar"
+ 3. Escribe "comando" y pulsa ok
+ Ahora debería estar en una pantalla de solicitud de MSDOS.
+ 4. Escribe "ipconfig / release" así, y pulsa "enter"
+ 5. Escribe "exit" y deja el prompt
+ 6. Haga clic derecho en "Lugares de red" o "Mis sitios de red" en su escritorio.
+ 7. Haga clic en "propiedades"
+ Ahora debería estar en una pantalla con algo titulado "Conexión de área local", o algo parecido a eso, y,
+ Si tiene una red conectada, todas sus otras redes.
+ 8. Haga clic derecho en "Conexión de área local" y haga clic en "propiedades"
+ 9. Haga doble clic en "Protocolo de Internet (TCP / IP)" de la lista en la pestaña "General"
+ 10. Haga clic en "Usar la siguiente dirección IP" en la pestaña "General"
+ 11. Crear una dirección IP (no importa lo que sea. Solo escribo 1 y 2 hasta que llene el área).
+ 12. Presione "Tabulación" y debería completar automáticamente la sección "Máscara de subred" con los números predeterminados.
+ 13. Pulse el botón "Ok" aquí
+ 14. Presiona el botón "Ok" otra vez
+ Ahora debería volver a la pantalla "Conexión de área local".
+ 15. Haz clic derecho en "Conexión de área local" y ve a las propiedades nuevamente.
+ 16. Volver a la configuración de "TCP / IP"
+ 17. Esta vez, seleccione "Obtener una dirección IP automáticamente"
+ tongue.gif 18. Pulsa "Ok"
+ 19. Pulsa "Ok" otra vez.
+ 20. Ahora tienes una nueva dirección IP
+ Con un poco de práctica, puede obtener fácilmente este proceso hasta 15 segundos.
+
+
+By: @DKzippO

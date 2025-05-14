@@ -1,0 +1,220 @@
+EXTRAPOLACIÓN Y SUS MÉTODOS
+
+
+¿Que es Extrapolar?
+
+Esto sirve para que vuelva a funcionar la tarjeta generada que utilizaste es muy importante que la guardes, para que le vuelvas a dar una utilidad y disfrutar de ella.
+
+Hay 3 métodos de extrapolación: básica, engine y avanzada, la cual hablaremos de las 3 así que pongan atención…
+
+Básica
+
+Consiste en 2 tipos de extrapolación:
+
+                                                                        Similitud
+
+                                                                        Activación
+
+Similitud: Requiere tener 2 CCs del mismo BIN, que son:
+                            4915 1101 9176 8499
+                            4915 1101 7692 8790
+Debemos separar los 6 primeros números de la CC:
+                            [491511] | [0191768499]
+                            [491511] | [0176928790]
+Y, se van a fijar en el segundo grupo: 
+                          [0191768499] y [0176928790]
+Después, van a comprobar SIMILITUDES entre estos dos, es decir, vas al segundo grupo que se separó:
+                                     [0191768499]
+                                     [0176928790]
+
+Ordenarlas de este modo, y después, comparar. Si tienen el mismo número, se quedan iguales, si no, se reemplazan por  una  X, es decir:
+                                      [0191768499]
+                                      [0176928790]
+                        = [01xxxx8x9x] se quedaría así
+Ahora, juntas el bin con tu resultado: 49151101xxxx8x9x
+
+Activación: Si tienes la CC, que en este caso es:
+
+                          4915 1101 9176 8499
+
+ Hay un sencillo paso que es borrar los seis últimos números y reemplazarlos por X (76 8499) lo cual quedaría así:
+
+ Final: 4915 1101 91xx xxxx
+
+Engine
+
+Métodos automáticos para generar extrapolaciones avanzadas genéricas usando páginas como Namso, u otros CCGens.
+
+Para extrapolar existen una aplicación llamada Zeleli. O la página web que también genera tarjetas a partir de un BIN (NamsoCC.org).
+
+                          Nos vamos a NamsoCC.org
+
+Bien, ya que estamos aquí, verán muchas opciones incluyendo el generador, haremos uso de
+él.
+
+Tomamos el BIN que teníamos previamente:  
+
+                                                                                        “538571xxxxxxxxxx”
+
+Lo colocamos en el generador, y clickean sobre “Generar tarjetas”. Tomamos una y nos vamos, a “convertir de CC a BIN”
+Ponemos una de las tarjetas generadas en este caso fue “5442 2106 2871 2008”, clic en “obtener extrapolación” y saldrán esas extrapolaciones, obviamente tomaremos la
+recomendada. De ahí, agarramos ese BIN, y empezamos a Generar tarjetas, a partir de esa extrapolación.
+
+Avanzada
+
+Esta es una compleja, pero muy buena para generar lives. Muy poca gente la conoce, ya que esta fue extraída de el software de generación de tarjeta SoFlA de un banco
+b10*sum: 
+                              T1: 4915 1101 7692 8790
+                              T2: 4915 1101 9176 8499
+
+Para este método, debemos usar únicamente los 10 dígitos de dos CCs.
+
+Pero, como hago si las CCs tienen diferentes números?
+
+Vale pues:
+
+Del tercer grupo, solo se usarán los 2 números de la mitad:
+                                 4915 1101 x69x xxxx
+                                 4915 1101 x17x xxxx
+
+Se suman:
+
+                                             6+1 = 07
+
+                                             9+7 = 16
+
+A partir de estos resultado, se divide el número entre 2:
+
+                                         6+1 = 7 = 3.5
+
+                                         9+7 = 16 = 08
+
+Después, se multiplica por 5.
+
+                                   6+1 = 7 = 3.5 = 17.5
+
+                                    9+7 = 16 = 08 = 40
+
+Si existe un decimal (.) y el número es de dos cifras, se borra el decimal.
+
+Y el resultado se suma:
+
+                                           17+40 =57
+
+Así que terminaria:
+
+                                    4915 1101 57xx xxxx
+
+Indentación lógica:
+
+                               4915 1101 7692 8790
+
+Debemos separar los 6 primeros números de la CC:
+
+                             [491511] | [0176928790]
+
+       
+
+Y, se van a fijar en el segundo grupo:
+
+                                  [0176928790]
+
+Después, este grupo lo deben separar en modo (3-4-3), es decir:
+
+    [017] [6928] [790]
+
+Y, eliminan el número central:
+
+      [0x7] [6xx8] [7x0]
+
+Después, ordenan el BIN con el resto:
+
+ 
+
+Resultado Final:                      4915110x76xx87x0
+
+MaTerialDInVerter:
+
+Este es un algoritmo privado el cual afecta a las tarjetas generadas después de mediados del 2017, fue tomado del software SoFlA del Banco de Bogotá.
+
+Este es el mas, mas complejo de todos y tiene un 100% de seguridad de sacar lives si lo usas bien.
+
+Este método requiere 2 CCs, las cuales comúnmente son expedidas entre Octubre 2016 a Febrero 2017.
+
+Así que:
+
+                         T1: 4915 1101 7692 8790
+
+                         T2: 4915 1101 9176 8499
+
+Tienes que separar T1 y T2 en 2 grupos de 8 dígitos:
+
+                        T1: [49151101] [76928790]
+
+                        T2: [49151101] [91768499]
+
+Ahora, vas a agarrar T2 y vas a ordenarlo del siguiente modo:
+
+        1er grupo x 2do grupo
+
+                4  x 9
+
+                9 x 1
+
+                1 x 7
+
+                5 x 6
+
+                1 x 8
+
+                1 x 4
+
+                0 x 9
+
+                1 x 9
+
+Y lo multiplicas:
+
+                4  x 9 = 36
+
+                9 x 1 = 9
+
+                1 x 7 = 7
+
+                5 x 6 = 30
+
+                1 x 8 = 8
+
+                1 x 4 = 4
+
+                0 x 9 = 0
+
+                1 x 9 = 9
+
+Vas a escribir cada resultado en una línea pegado:
+
+                                        3697308409
+
+Como pueden ver, hay 10 números, debemos hacer que sean 8, así que borramos los últimos 2 para que nos queden 8 que serían:
+
+Nos queda: 369 73084
+
+Ahora, vamos a pegar el primer grupo con nuestro resultado:
+
+= 4915110136973084
+
+Ahora, vamos a realizar extrapolación basica, similitud entre T1 y el resultado, por eso, separamos:
+
+T1: [49151101] [76928790]
+
+R1: [49151101] [36973084]
+
+Nuestro resultado sería: 49151101x69xxxxx
+
+Ahora, si el último dígito termina siendo una X, este se reemplaza por 1
+
+El resultado final sería: 491511x69xxxx1
+
+*Eso sería todo lo que hay que saber para extrapolar un bin, la pueden hacer de cualquier forma pero es recomendable que practiquen las más complicadas por así decirlo, si no les queda claro pues la única solución el suicidio.*
+
+Metodos de @MrWaylex

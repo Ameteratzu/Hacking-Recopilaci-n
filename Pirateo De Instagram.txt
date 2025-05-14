@@ -1,0 +1,50 @@
+?? Script de pirateo de Instagram por Bruteforce en Termux ??
+
+ 1) Cargue su dispositivo Android.
+
+ 2) Luego haga clic en la aplicación de PlayStore y busque "Termux" e instálela.
+
+ 3) Abra la aplicación Termux y escriba: "pkg install git".
+
+ 4) Para actualizar los paquetes disponibles, escriba: "pkg update".
+
+ 5) Permite instalar Python escribiendo "pkg install python"
+
+ 6) Necesitaremos descargar la herramienta que usaremos para este ejercicio de fuerza bruta.  Para descargar, en su terminal ... escriba: "git clone https://github.com/avramit/instahack
+
+ 7) Una vez completada la descarga, escriba: "ls" para enumerar las carpetas / archivos disponibles en el directorio actual
+
+ 8) Como puede ver que tiene una carpeta llamada "instahack", ahora ingrese a esa carpeta escribiendo "cd instahack".
+
+ 9) Escriba: "ls" para enumerar los archivos disponibles.
+
+ 10) Ok, ya casi estamos allí.  A continuación, instalemos un editor para que podamos editar el archivo de contraseña.  Para instalar nano, escriba: "pkg install nano".
+
+ 11) Ok, detengámonos por un segundo.  Ahora permítanme explicar algunas cosas para los principiantes.  Como decía el artículo, este es un método de fuerza bruta.  Entonces, ¿cuál es un método de fuerza bruta?  Un método de fuerza bruta es cuando las credenciales de destino se ejecutan en una lista de posibles contraseñas.  Lo único sobre la fuerza bruta es que usted es responsable de la fortaleza de su propia lista de contraseñas.  Lo que significa que la probabilidad de descifrar la contraseña depende de la fuerza de la lista de palabras y la cantidad de palabras posibles que ingresemos. Esto tomará tiempo en crearse o puede usar cupp.py para crear una lista de palabras personalizada.
+
+ 12) Bien, entonces editemos nuestra lista de contraseñas.  En el directorio instahack, escriba: ls.
+
+ 13) Como puede ver, hay un archivo llamado pass.txt.  Este es el archivo en el que deberá colocar todas las contraseñas posibles.
+
+ 14) Para editar el pass.txt, utilizaremos el editor nano que acabamos de instalar.  Tipo: "nano pass.txt".
+
+ 15) A continuación verá una pequeña lista de contraseñas que viene con ella de manera predeterminada, ahora puede agregar tantas palabras como sea posible para que se ejecute contra el objetivo.  Puede usar cupp.py para crear listas de contraseñas personalizadas.
+
+ 16) Cuando haya terminado, presione alt x, sí, ingrese.  Para aquellos que usan Samsung s8 + como yo, el botón alt se reemplaza en su teléfono como el botón para bajar el volumen.  Presione el botón para bajar el volumen y presione x al mismo tiempo.
+
+ 17) Y ahora para la instalación final, escriba: "solicitudes de instalación de pip".
+
+ 18) Estamos listos!  Vamos a ejecutar el script, escriba: "python hackinsta.py".
+
+ 19) Primero se le pedirá su nombre de usuario objetivo.
+
+ 20) A continuación, se le dará la opción de usar un proxy o no.  No usaré ninguno para este tutorial
+
+ 21) Y finalmente puedes establecer los intervalos entre intentos.  He puesto el mío en 6.
+
+ 22) Una vez que lo haya ingresado todo, presione enter.
+
+ 23) Como puede ver al entrar, instahack comienza a ejecutar el pass.txt contra el nombre de usuario objetivo.  Si la contraseña es incorrecta, se mostrará incorrecta; de lo contrario, como se muestra a continuación, mostrará las credenciales de inicio de sesión correctas.
+
+
+@SevexNonymus para mas informacion

@@ -1,0 +1,61 @@
+????Metodo Dell????
+
+??Herramientas??
+
+1. Gota fresca (si su caída es una lista negra en DELL, no pasará, incluso si su CC es buena)
+2. Buena CCV (no VBV o no MSC)
+3. Calcetín / VPN / SSH / VPS (esto no es importante, pero un buen calcetín en el mismo estado de CC es mejor).
+
+??Ahora, comencemos
+
+A - Si quieres hacer un solo pedido con un solo Cvv2 (que es válido y virgen, por supuesto)?
+
+1- Primero verifique el cc y asegúrese de que sea válido. Elija su artículo (elementos de vía rápida)
+
+2- Haga clic en Agregar al carrito y luego retirar, se le pedirá que se registre para un nuevo usuario o inicie sesión si tiene una cuenta existente (regístrese para obtener una cuenta nueva)
+
+
+3- Ingrese el nombre y apellido de su entrega como nombre y apellido de la cuenta en la página de registro, proporcione una dirección de correo electrónico y contraseña válidas.
+
+4- Será redirigido a la página de información de envío, buscará el nombre y el apellido que figuran en la página de registro almacenada allí, solo agregue la dirección y otra información
+
+* Nota: no tiene que proporcionar un número de teléfono válido para la dirección de envío, el teléfono de facturación también funciona para el envío
+
+5- Elija el método de envío más rápido (aire del día siguiente) También funcionará el aire del segundo día, pero asegúrese de que la cantidad total no exceda de 470-480 $
+
+6- En la página de facturación, eliminar la información de envío almacenada. Luego agregue la información de facturación que debe ser la misma que la almacenada en el banco (asegúrese de que el CC sea 100% válido) LA PARTE MÁS IMPORTANTE AQUÍ ES EL NÚMERO DE TELÉFONO DE FACTURACIÓN
+
+??que debe ser el mismo almacenado con el banco porque utilizan este número para verificación (no para llamar al titular de la tarjeta, sino para verificar la información con el banco)
+
+7- No elija ningún límite en la página de facturación (elija: Sin límite)
+
+??Haga clic en Enviar!?
+
+* En primer lugar, tenga en cuenta que este método puede causarle problemas si envía estos artículos a su propia casa, también los artículos pueden devolverse al remitente antes de que los reciba.
+
+
+1- Siga el primer método para solicitar un solo artículo Con 1 Cc, recibirá 2 correos electrónicos después de realizar el pedido (Confirmación de pedido de Dell - Confirmación de pedido de Dell) tan pronto como reciba el Segundo correo electrónico, que es: Confirmación de pedido de Dell
+
+verifique el estado del pedido en 10 - 30 minutos SI ve algo parecido (en producción o en preproducción) Vaya al próximo paso.
+
+2- Hacer otra orden y que no debe exceder de $ 480.
+
+
+3- Siga todos los pasos anteriores (Almacenar la información de su tarjeta de crédito facilitará la misión)
+
+
+4- Repita esto tantas veces como lo permita el límite de CC.
+ No realice ningún pedido si el estado del pedido anterior no está (en producción o en preproducción)
+
+
+6- Si sospechan de una de las órdenes, cancelarán todas las órdenes. Por supuesto, el método de envío al día siguiente reducirá la posibilidad de que los artículos se devuelvan al remitente.
+
+??Eso es todo, y disfruta de tu cardado de DELL?
+
+1. Si no quiere tener problemas con VBV o MSC, use el navegador Lolifox, con este navegador Dell no le pedirá VBV a pesar de que su CC es VBV, dónde obtenerlo ... Google es su amigo ( intenta ver, es mi truco en DELL)
+2. Si recibe los correos electrónicos de pago en espera, no lo abandone, intente chatear con el servicio de atención al cliente de DEll y dígales que desea dar un nuevo CC para su pedido, luego deles una nueva información de CCV (esta vez no lo hacen). compruebe VBV o MSC)
+
+3. con mi experiencia, encuentre Credit Signature CC, tenga más% de éxito
+
+
+@SevexNonymus para mas informacion
